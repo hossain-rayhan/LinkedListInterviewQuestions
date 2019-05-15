@@ -1,8 +1,9 @@
 //Cracking the Coding Interview
 //Chapter 2: LinkedLists
-//Problem-2.1: Remove Dus
+//Problem-2.1: Remove Duplicates
 //Description: Write a code to remove duplicates from an unsorted linked list.
 //To run this code- put LinkedListNode.java and LinkedListHelper.java in the same folder
+//To Compile: javac RemoveDuplicates.java ; To run: java RemoveDuplicates
 
 import java.util.HashSet;
 
